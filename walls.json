@@ -1,18 +1,14 @@
-{
-  "Wallpapers": [
-    {
-      "name": "Fofi Dog",
-      "author": "Axio Design",
-      "url": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo01_dog.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo01_dog.jpg",
-      "category": "Animales"
-    },
-    {
-      "name": "Fofi Cat",
-      "author": "Axio Design",
-      "url": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo02_cat.jpg",
-      "thumbUrl": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo02_cat.jpg",
-      "category": "Animales"
-    }
-  ]
-}
+[
+  {
+    "name": "Fofi Dog",
+    "author": "Axio Design",
+    "url": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo01_dog.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo01_dog.jpg"
+  },
+  {
+    "name": "Fofi Cat",
+    "author": "Axio Design",
+    "url": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo02_cat.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/axiodesign777-rgb/fofi-wallpapers/main/fondo02_cat.jpg"
+  }
+]
